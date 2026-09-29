@@ -40,7 +40,7 @@ A result of "not found on a portal that was not queried directly" means **unveri
 | byg4lab.com (301 to ascentry.com, content removed), byg-info.com (503), partner4lab.com (DNS/502), professeurs-medecine-nancy.fr (503) | Legacy pages unreadable; some claims rest on search snippets only | Read archived copies |
 | LinkedIn | Not fetched | Headcount by function; background of CEO Ludovic d'Apréa; Belgian/Swiss staff |
 | Business Wire QuidelOrtho release (403), infonet.fr (403), PitchBook (paywall), CFNEWS, Fusacq, Forbes France BrandVoice (DNS) | Blocked or paywalled | Read the full texts |
-| Biologiste365 "Quand les données de biologie…" and "antibiothérapie" articles | Paywalled after the intro | Read the full text, including the CHRU Nancy/LUMED mention |
+| Biologiste365 "Quand les données de biologie…" and "antibiothérapie" articles | Paywalled after the intro | Read the full text. The CHRU Nancy/LUMED point is now settled by internal intelligence: LUMED APSS + ZINC since 2021 |
 | Spectra Diagnostic n°35 (Nov 2024) and n°41 (Nov 2025) PDFs | Text extraction failed (font encoding) | Read manually; n°41 "Retours sur les middlewares" may name customers |
 | RICAI, ESCMID, EuroMedLab/IFCC, JIB/SFBC, BSIM/BVIKM, Swiss Society for Microbiology abstract books; SF2H 2026 abstract book; Google Scholar | Not full-text searched | Search for Ynfectio/Infection Tracker abstracts (Rennes, Grenoble, Reims authors) |
 | JIB, RICAI, Medica, Santexpo, HIMSS Europe 2025–2026 exhibitor lists | Not reached | Confirm event presence |
@@ -71,6 +71,8 @@ A result of "not found on a portal that was not queried directly" means **unveri
 | 16 | **CHU Reims** still uses **InfectioGlobal V4** for MRSA alerts to its infection-control team. Its LIS vendor Inlog now resells Infection Tracker | **NEW** (2025 thesis) | CONFIRMED | [Reims thesis 2025](https://dumas.ccsd.cnrs.fr/dumas-05322365v1) |
 | 17 | CHU Grenoble's Ascentry PILOT MALDI maintenance ends about **25/04/2027**, close to the Infectio cut-off. CHU Dijon's Info Partner contract ended about 03/05/2026 with no published renewal | **NEW** | CONFIRMED (contracts); end dates INDICATIVE | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
 | 18 | RESAH's anti-microbial-resistance framework awarded the IPC/AMS software lots 8–10 to **Nosotech (Nosokos)**, running to about May 2028. Ascentry holds no RESAH framework lot. Relaunched lot 1 (microbiology + surveillance/antibiotherapy software) went to bioMérieux | **NEW** (follow-on contracts 2025–2026) | CONFIRMED | [TED 489752-2024](https://ted.europa.eu/en/notice/-/detail/489752-2024); [DECP](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
+| 19 | **CHRU Nancy**, the historic INFECTIO site, has used **LUMED APSS and ZINC since 2021**. It is the natural reference for legacy-Infectio prospects | **NEW** (to this report) | CONFIRMED (user-provided internal intelligence) | Internal |
+| 20 | Only about 20 of Ascentry's claimed 400+ French middleware sites are publicly identifiable. Six contracts come up for renewal between January and December 2027 (Gonesse, Saint-Étienne, Rouen, Grenoble, Caen, plus the Infectio cut-off), and CH Cannes runs Inlog + nYna, the profile the Inlog–Ascentry partnership targets | **NEW** | CONFIRMED (contracts, hospital documents); end dates INDICATIVE | Chapter 13.7 |
 
 ---
 
@@ -420,7 +422,7 @@ The totals are a **floor**: DECP is incomplete (many below-threshold maintenance
 
 ## 13. France: legacy Infectio sites, contract renewals and LUMED ZINC opportunities
 
-**NEW (research date 29/09/2026).** This chapter answers one question: which French hospitals still run the legacy INFECTIO product line, when do their Ascentry contracts end, and how could they buy a replacement. It uses a fresh search of the French and EU public procurement data plus two items of internal intelligence supplied by the user.
+**NEW (research date 29/09/2026).** This chapter answers one question: which French hospitals still run the legacy INFECTIO product line, when do their Ascentry contracts end, and how could they buy a replacement. It uses a fresh search of the French and EU public procurement data plus internal intelligence supplied by the user. Section 13.7 (added the same day) widens the view to Ascentry's whole French middleware base as the likely cross-sell pool for Infection Tracker.
 
 ### 13.1 What we know about the June 2027 end of maintenance
 
@@ -448,7 +450,7 @@ End dates are computed as notification date plus stated duration. They are **IND
 | 1 | **GHT Coeur Grand Est** (support hospital CH Verdun Saint-Mihiel; labs pooled in GCS Biologie Médicale Triangle et Der) | Current Infectio customer | None visible in DECP, BOAMP or TED; probably below the publication threshold | Driven by the June 2027 end of maintenance | GHT-wide hygiene team; the GHT buys lab supplies jointly for GHT + GCS; bacteriology lab at Verdun refurbished in 2019–2020 | CONFIRMED (user-provided internal intelligence) for Infectio; CONFIRMED for context | Internal; [GHT lab GCS](https://ght-coeurgrandest.fr/gcs-laboratoire/); [GHT hygiene team](https://ght-coeurgrandest.fr/specialites/hygiene-hospitaliere/); [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
 | 2 | **CHU Grenoble Alpes** | Current Infectio customer; also runs the legacy PILOT MALDI microbiology middleware | PILOT MALDI flat-rate maintenance, BYG INFORMATIQUE, MAPA, DECP 20232023S0768100 | **25/04/2027** | CHU Grenoble speaker at Ascentry's sponsored SF2H 2025 session "AI for detecting cross-contamination with Ynfectio"; Ascentry's AI partner GeodAIsics is a Grenoble start-up | CONFIRMED (user-provided internal intelligence) for Infectio; CONFIRMED for contract and SF2H | Internal; [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/); [SF2H 2025 abstract book](https://www.sf2h.net/k-stock/data/marseille_2025/sf2h_2025_livre_resume.pdf) |
 | 3 | **CHU Reims** (GHU Champagne) | Infection-control team receives MRSA alert forms "via the epidemiology software InfectioGlobal V4 (BYG4Lab)" | None visible | Driven by the June 2027 end of maintenance | LIS is INLOG "Labo Serveur" (GHU Champagne maintenance contract, 01/10/2019, 39 months, €233,859). Inlog signed an Ascentry partnership covering Infection Tracker in October 2025 | CONFIRMED (independent thesis, 2025) | [Reims thesis 2025](https://dumas.ccsd.cnrs.fr/dumas-05322365v1); [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/); [Ascentry x Inlog](https://www.ascentry.com/event/ascentry-x-inlog-a-strategic-partnership/) |
-| 4 | **CHRU Nancy** (GHT Sud Lorraine) | InfectioGlobal fed a daily lab-result import into an in-house database for highly-resistant-bacteria carriers and contacts | None visible | Unknown | GHT Sud Lorraine signed a follow-on contract under RESAH lot 1 with bioMérieux on 18/12/2024 (see 13.4). Biologiste365 reportedly says Nancy works with LUMED (unverified) | CONFIRMED (independent, 2020 state); current state UNKNOWN | [Nancy thesis 2020](https://hal.univ-lorraine.fr/hal-03298181v1); [DECP 2024F13529](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
+| 4 | **CHRU Nancy** (GHT Sud Lorraine) | InfectioGlobal fed a daily lab-result import into an in-house database for highly-resistant-bacteria carriers and contacts (2020) | None visible | Not applicable | **Existing LUMED customer: LUMED APSS and ZINC in use since 2021.** GHT Sud Lorraine also signed a follow-on contract under RESAH lot 1 with bioMérieux on 18/12/2024 (see 13.4). Whether InfectioGlobal still runs alongside LUMED is unknown | CONFIRMED (independent, 2020) for InfectioGlobal; CONFIRMED (user-provided internal intelligence) for LUMED | [Nancy thesis 2020](https://hal.univ-lorraine.fr/hal-03298181v1); [DECP 2024F13529](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
 | 5 | **CH Abbeville** | Infectio.Global (partner4lab) linked to the LIS and patient movements | None visible | Unknown | — | CONFIRMED (independent, 2019 state); current state UNKNOWN | [Abbeville thesis 2019](https://dumas.ccsd.cnrs.fr/dumas-02884834v1) |
 | 6 | **CH Nevers** (CHI Agglomération de Nevers) | "INFECTIO LABO / YNFECTIOLABO" update and maintenance | DECP 2026S00059, €10,314.92, 48 months, no publicity or competition | **01/02/2030** | The joint name suggests the Ynfectio migration is already in this contract (INDICATIVE). Near-term opening is unlikely | CONFIRMED (contract) | [DECP](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
 | 7 | **CHU Dijon** | Awardee is Info Partner itself (the INFECTIO publisher); object "software and connections by BYG4LAB"; products not named | DECP 20222022S1506200, €19,386, 48 months | **03/05/2026 (already passed)** | No renewal found in DECP by 29/09/2026. It may be unpublished, below threshold or still in progress | CONFIRMED (contract); Infectio use UNKNOWN | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
@@ -477,7 +479,7 @@ Outside France, Belgium has one named legacy INFECTIO.GLOBAL site, a lab platfor
 | 2 | CHU Reims | Independent 2025 evidence of InfectioGlobal V4 in daily IPC use | Before June 2027 | Inlog (Reims' LIS vendor) now resells Infection Tracker | CONFIRMED + INDICATIVE |
 | 2 | CHU Dijon | Info Partner maintenance contract ended 03/05/2026 with no published renewal | Now | Infectio use is not proven; contact needed | INDICATIVE |
 | 3 | CH Abbeville | Legacy Infectio.Global (2019) | Before June 2027 if still in use | Evidence is 7 years old | INDICATIVE |
-| 3 | CHRU Nancy / GHT Sud Lorraine | Legacy InfectioGlobal (2020); GHT already contracted under RESAH lot 1 with bioMérieux | Account-management question, not a new tender | Status of LUMED at Nancy unverified | INDICATIVE |
+| Reference | CHRU Nancy / GHT Sud Lorraine | **Existing LUMED APSS + ZINC site since 2021**, and the historic home of INFECTIO. It is the natural reference for every legacy-Infectio prospect and for extending ZINC across GHT Sud Lorraine | Now | Any residual InfectioGlobal use at Nancy or other GHT sites could be targeted by Ascentry's migration offer | CONFIRMED (user-provided internal intelligence) |
 | 4 | CHU Caen GHT; CH Nevers | Already on Ynfectio or with a migration contract | Caen December 2027; Nevers February 2030 | Locked in; Caen also has i2a epidemiology software at Aunay-Bayeux | CONFIRMED |
 
 ### 13.6 bioMérieux to confirm internally
@@ -485,9 +487,75 @@ Outside France, Belgium has one named legacy INFECTIO.GLOBAL site, a lab platfor
 - Whether ZINC, LUMED or both are the software delivered under RESAH lot 1, and whether a legacy Infectio site can join through a follow-on contract.
 - Whether a legacy INFECTIO site can move to ZINC before June 2027 without a new tender (RESAH follow-on contract, below-threshold procedure, or innovation route).
 - Which data feeds ZINC needs that INFECTIO sites already have (LIS HL7 feed, patient movements). This matters for the migration argument.
-- The current status at CHRU Nancy (GHT Sud Lorraine follow-on contract, December 2024).
+- Whether InfectioGlobal has been switched off at CHRU Nancy since LUMED APSS and ZINC went live in 2021. This matters for the reference story, and for any other GHT Sud Lorraine site still on Infectio.
 - Account status at GHT Coeur Grand Est and CHU Grenoble: who owns the Infectio budget (lab or IPC team) and when the Ascentry migration quote is expected.
 - Whether any VIGI@ct or VIGIguard sites sold under the bioMérieux name (chapter 15) overlap with this list.
+
+### 13.7 Ascentry middleware installed base in France: Infection Tracker cross-sell targets and renewal dates
+
+**NEW (research date 29/09/2026).** Ascentry sells no LIS. Its French base is lab middleware:
+
+- EVM, now nYna / Lab Composer, for core-lab data management
+- EVM-IH for immuno-haematology
+- PILOT / PILOT MALDI for microbiology, inherited from partner4lab
+- Ypoc / POC Controller for point-of-care testing
+
+Each middleware site is a natural target for an Infection Tracker upsell. CHU Caen shows the pattern: Ynfectio sits in the same maintenance contract as the middleware (chapter 8). Ascentry claims **"more than 400 private or hospital technical platforms in France"** on EVM, and says nYna and pocY are "in routine use within major French biology structures, public and private". CONFIRMED (company claim) ([Spectra Diagnostic no. 12, BYG4lab advertorial](https://spectradiagnostic.com/wp-content/uploads/2021/05/SD012_Publi-Byg4lab.pdf)). Public sources name only about 20 of those sites, and they are listed below.
+
+**How this list was built.** Sources were:
+
+- DECP, BOAMP and TED searched for the supplier IDs and for every product name: EVM, EVM-IH, nYna/NINA, B-Link, PILOT/pYlot, Qualynk, Lab Composer, Validation Manager, Ypoc/pocY, Infectio/Ynfectio.
+- Analyser tenders that name BYG middleware as a connection requirement.
+- Hospital lab quality manuals, which list the lab's middleware.
+- Legacy BYG4lab and partner4lab communications.
+
+#### A. Public-sector sites with an Ascentry / BYG / Info Partner contract or tender requirement
+
+End dates are notification date plus stated duration: **INDICATIVE**. Rows are sorted by indicative end date.
+
+| # | Site | Ascentry product(s) | Contract evidence | Indicative end / renewal window | IPC product known at site | Confidence | Source |
+|---|---|---|---|---|---|---|---|
+| 1 | CHR Orléans | BYG middleware | 22/02/2019, 48 months, €40,965.80 (negotiated with competition); then 13/04/2023, 2 years, €21,000 (Pappers listing) | About 12/04/2025, **passed**; no newer notice found | None known | CONFIRMED (2019); company-registry listing for 2023 | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/); [Pappers](https://www.pappers.fr/entreprise/byg-informatique-326649407) |
+| 2 | CH Lens | "Maintenance BYG4LAB" for the hospital labs | 21/11/2024, 12 months, €2,639.99, no competition | About 20/11/2025, **passed**; annual renewals are probably below the publication threshold | None known | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
+| 3 | CHU Dijon | Info Partner software and connections | 04/05/2022, 48 months, €19,386 | About 03/05/2026, **passed**; no renewal found | Possibly Infectio (13.3) | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
+| 4 | CH Gonesse (via CH Saint-Denis) | EVM, hardware and analyser connections | 02/01/2023, 48 months, €12,334 | **01/01/2027** | None known | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
+| 5 | CHU Saint-Étienne | BYG4LAB connections for Bruker MALDI | 06/02/2023, 48 months, €9,120 | **05/02/2027** | None known | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
+| 6 | CHU Rouen | Bacteriology identification module + analyser connections (partner4lab line) | 06/04/2023, 48 months, €40,028.60 | **05/04/2027** | None known | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
+| 7 | CHU Grenoble Alpes | PILOT MALDI | 26/04/2023, 48 months, MAPA | **25/04/2027** | **Infectio** (internal intelligence) | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/) |
+| 8 | CHU Caen (GHT Normandie Centre, 3 sites) | nYna, Ynfectio, Qualynk, EVM-IH | 18/04/2024, 44 months, €415,155 | **17/12/2027** | **Ynfectio** | CONFIRMED | [TED 348571-2024](https://ted.europa.eu/en/notice/-/detail/348571-2024) |
+| 9 | CH Beauvais | EVM + "NINA" (probably nYna), hardware and connections | 28/01/2025, 48 months, €43,104, no competition | **27/01/2029** | None known | CONFIRMED (contract); "NINA = nYna" INDICATIVE | [DECP](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
+| 10 | CH Nevers | Infectio Labo / Ynfectio Labo | 02/02/2026, 48 months, €10,314.92 | **01/02/2030** | **Infectio → Ynfectio** | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp-2022-marches-valides/) |
+| 11 | CH Avranches-Granville | BYG with Ortho Vision (immuno-haematology), inside Ortho's maintenance lot | 16/12/2019, 48 months, lot 5 €36,824 (awardee Ortho-Clinical Diagnostics); lot relaunched in October 2023 as "Orthovision et BYG … I2A" | First contract ended about 15/12/2023; 2023 relaunch winner not found | None known | CONFIRMED | [DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente/); [BOAMP 23-142021](https://www.boamp.fr/pages/avis/?q=idweb:23-142021) |
+| 12 | CHU Caen / GHT Normandie Centre | EVM support, as a mandatory supplementary item in the Grifols Erytra (immuno-haematology) tender | 2019 | Historical | (see row 8) | CONFIRMED | [BOAMP 19-146017](https://www.boamp.fr/pages/avis/?q=idweb:19-146017); [TED 583476-2019](https://ted.europa.eu/en/notice/-/detail/583476-2019) |
+| 13 | CH Sud Essonne Dourdan-Étampes | EVM (BYG), required to connect the immuno-haematology analyser to the Glims LIS | 2016 tender | Historical; current status UNKNOWN | None known | CONFIRMED (2016 state) | [BOAMP 16-28267](https://www.boamp.fr/pages/avis/?q=idweb:16-28267) |
+| 14 | CH Centre Bretagne (Pontivy) | BYG middleware support and a BYG client workstation at the immuno-haematology bench | 2015 tender | Historical; current status UNKNOWN | None known | CONFIRMED (2015 state) | [BOAMP 15-168566](https://www.boamp.fr/pages/avis/?q=idweb:15-168566) |
+| 15 | UGAP national lab-analyser framework | BYG INFORMATIQUE a member of the Ortho-Clinical-led winning group | 2021, up to 12 years | Open to any UGAP customer buying through that lot | n/a | CONFIRMED | [BOAMP 21-100129](https://www.boamp.fr/pages/avis/?q=idweb:21-100129); [TED 495457-2021](https://ted.europa.eu/en/notice/-/detail/495457-2021) |
+
+#### B. Sites identified from lab documents and company communications (no public contract found)
+
+| # | Site / group | Evidence | Date of evidence | Why it matters for ZINC | Confidence | Source |
+|---|---|---|---|---|---|---|
+| 1 | **CH Cannes Simone Veil** | Lab systems: LIS **Inlog** (Haemonetics); "concentrator systems: MPL (Roche) and **Nyna (bYg)**"; patient record DxCare | Quality manual v8, approved 02/09/2025 | Inlog LIS plus Ascentry middleware is the profile the October 2025 Inlog–Ascentry partnership targets for Infection Tracker | CONFIRMED (hospital document) | [CH Cannes quality manual](https://ch-cannes.manuelprelevement.fr/DocumentNew.aspx?idDoc=30291) |
+| 2 | CH Mâcon | PILOT.MALDI installed with Bruker MALDI Biotyper sirius (July–August 2021; routine from October 2021) | 2021–2022 | Microbiology middleware site; Infection Tracker cross-sell candidate | CONFIRMED (company claim) | [BYG4lab user case, Mâcon](https://byg4lab.com/en/case-studies/user-case-macon-hospital-center/) |
+| 3 | CH Brive | Analyser interfaces "MPL, Biolink, **Byg**, SIR"; Inlog server | Quality manual dated 29/01/2013 | Old evidence; current use UNKNOWN | CONFIRMED (2013 state) | [CH Brive quality manual 2013](https://ch-brive.manuelprelevement.fr/Docs/lbm-chdebrive/DefaultDocs/DocN4.pdf) |
+| 4 | **Unilabs France** (about 100 sites, 1,300 staff in 2016) | EVM chosen as the single middleware for the network | June 2016 | Private-lab network; current status UNKNOWN | CONFIRMED (company claim, 2016) | [BYG4lab: Unilabs partnership](https://byg4lab.com/case-studies/partenariat-unilabs-france/) |
+| 5 | Biosèvres (private lab) | Samples packed with "the BYG packaging software" | Procedure v10, applicable 18/07/2025 | Private lab using an Ascentry module | CONFIRMED (lab document) | [Biosèvres procedure](https://biosevres.manuelprelevement.fr/DocumentNew.aspx?idDoc=282) |
+| 6 | GCS Charente-Maritime Nord, CHU La Réunion, GHT Nord-Ouest Vexin Val d'Oise, CH Lannion | Named as "recent customers" of EVM in a search-engine summary of the old byg-info.com news page. The page itself returns HTTP 503 and could not be read | Undated (pre-2020 site) | Possible hospital middleware sites | INDICATIVE (search-engine summary only) | [byg-info.com news (unreadable)](http://byg-info.com/index.php/fr/actualites-2) |
+| 7 | CHU Reims, CHRU Nancy, CH Abbeville | Info Partner INFECTIO sites (see 13.3) | 2019–2025 | IPC base, not middleware | CONFIRMED (theses) | 13.3 |
+| 8 | Biogroup, Cerba, Eurofins, Synlab France, Inovie, LBI | No public evidence of Ascentry middleware | — | — | UNKNOWN (searched company site, press, DECP) | Chapter 9 |
+
+#### C. What the renewal calendar means (ANALYST OPINION)
+
+- **2027 is the pressure point.** Gonesse (January), Saint-Étienne (February), Rouen (April), Grenoble (April), the Infectio end of maintenance (June) and Caen (December) all fall within 12 months. Expect Ascentry to use each renewal to propose Lab Composer plus Infection Tracker as a single, negotiated, no-competition package, as at Caen.
+- **Inlog sites carry double risk.** CH Cannes (Inlog + nYna) and CHU Reims (Inlog + InfectioGlobal) can be offered Infection Tracker by both Ascentry and Inlog.
+- **Contracts already passed with no visible renewal** (Orléans April 2025, Lens November 2025, Dijon May 2026) may be running on tacit or below-threshold renewals. Those are the cheapest accounts to open a conversation with now.
+- **Scale caveat.** The table names about 20 sites against more than 400 claimed platforms. It is a sample, not a census.
+
+#### D. How to complete the list
+
+- **bioMérieux's own connectivity records** are the fastest way to widen the list: installation and service records for VITEK, VITEK MS and BacT/ALERT connections name the middleware each lab uses. bioMérieux to confirm internally.
+- A systematic read of the lab quality manuals published on manuelprelevement.fr, where many French hospital labs host them. Search each for "bYg", "EVM", "Nyna" and "Pilot".
+- Each target hospital's annual list of concluded contracts, held by its purchasing office. It includes below-threshold maintenance contracts.
 
 ---
 
@@ -570,7 +638,7 @@ The 2026 calendar shows a **deliberate move onto IPC and infectious-disease audi
 
 ## 17. Head-to-head with LUMED
 
-**No internal tender encounters, win/loss records or LUMED-versus-Ascentry intelligence were provided.** This comparison is built from public Ascentry evidence only. The LUMED column is left for bioMérieux to complete.
+**No internal tender encounters or win/loss records were provided.** One account where both are present is known: **CHRU Nancy** has used LUMED APSS and ZINC since 2021 (CONFIRMED (user-provided internal intelligence)), and it is also the historic InfectioGlobal site (2020 thesis). The two known current Infectio customers, GHT Coeur Grand Est and CHU Grenoble, are open ZINC opportunities (chapter 13). Otherwise the comparison is built from public Ascentry evidence. The LUMED column is left for bioMérieux to complete.
 
 ### Tender-readiness scorecard
 
@@ -593,7 +661,7 @@ The 2026 calendar shows a **deliberate move onto IPC and infectious-disease audi
 
 - **VIGI@ct / VIGIguard.** Ascentry claims Info Partner designed these products, and papers show them sold under the bioMérieux name. Confirm the history of the OEM/distribution agreement, whether it has ended, whether any contractual obligations survive, and which sites form a **legacy installed base** that may have migrated to Infectio, Ynfectio or Infection Tracker (France, Italy, Portugal, Belgium). Do not use the lineage externally until confirmed.
 - **HUmani Charleroi.** bioMérieux Benelux won the antibiogram tender (TED 423892-2025), which required "raccordement à la connexion Byg4lab existante". Confirm the connection arrangement, the cost bearer and the working relationship with Ascentry in Belgium. Check the same for other Belgian and French sites where bioMérieux instruments connect to BYG4lab middleware.
-- **CHRU Nancy.** Biologiste365 reportedly says CHRU Nancy works with LUMED (INDICATIVE). Nancy is also the historic Info Partner / InfectioGlobal site. Confirm LUMED's status and any co-existence with InfectioGlobal.
+- **CHRU Nancy.** Has used LUMED APSS and ZINC since 2021 (CONFIRMED (user-provided internal intelligence)). Nancy is also the historic Info Partner / InfectioGlobal site. Confirm whether InfectioGlobal still runs alongside LUMED, and whether Nancy will act as a reference for legacy-Infectio prospects.
 - **UGAP 2021 framework 17U032.** BYG INFORMATIQUE is listed in the Ortho-led group. Confirm internally whether and how bioMérieux relates to this framework before citing it. **No bioMérieux status is asserted here.**
 - **SF2H 2025.** Ascentry's stand (37) was adjacent to bioMérieux's (38). Check for field intelligence from the event.
 - **Any bioMérieux–Ascentry connectivity or partnership agreement** (none is public). Also establish whether Ascentry's VP Industrial Partnerships has approached bioMérieux.
@@ -666,6 +734,7 @@ Belgium deserves specific attention. bioMérieux instruments already connect to 
 | VIGI@ct/VIGIguard legacy base | Possible former bioMérieux-distributed sites | bioMérieux internal records | bioMérieux to confirm |
 | Keensight exit / ownership change | Strategic stability of the competitor | CFNEWS, Fusacq, press | Watch |
 | CEO background (d'Apréa) | Strategic direction | LinkedIn, press | Open |
+| Full list of Ascentry middleware sites in France (EVM, nYna, EVM-IH, PILOT, Ypoc) | Cross-sell pool for Infection Tracker | bioMérieux connectivity/service records for VITEK, VITEK MS and BacT/ALERT; lab quality manuals on manuelprelevement.fr; purchasing offices | Open |
 | Full list of legacy INFECTIO sites in France | Sizes the June 2027 ZINC opportunity | bioMérieux field teams; CPias regional networks; hospital purchasing offices (annual contract lists); Ascentry user club | Open |
 | Ascentry's public end-of-maintenance notice for INFECTIO | Confirms the June 2027 date and the migration offer | Customer letters (via friendly sites), Ascentry sales material | Open (internal intelligence only) |
 | CHU Dijon: whether Info Partner products include Infectio; renewal status after May 2026 | Possible immediate opportunity | CHU Dijon purchasing office; PLACE | Open |
@@ -740,6 +809,17 @@ Belgium deserves specific attention. bioMérieux instruments already connect to 
 - https://www.castren.fi/cases/byg4lab-and-keensight-capital-acquisition-of-finbiosoft/
 
 ### Procurement sources
+- https://www.boamp.fr/pages/avis/?q=idweb:23-142021
+- https://www.boamp.fr/pages/avis/?q=idweb:19-146017
+- https://www.boamp.fr/pages/avis/?q=idweb:16-28267
+- https://www.boamp.fr/pages/avis/?q=idweb:15-168566
+- https://www.boamp.fr/pages/avis/?q=idweb:21-100129
+- https://ch-cannes.manuelprelevement.fr/DocumentNew.aspx?idDoc=30291
+- https://ch-brive.manuelprelevement.fr/Docs/lbm-chdebrive/DefaultDocs/DocN4.pdf
+- https://biosevres.manuelprelevement.fr/DocumentNew.aspx?idDoc=282
+- https://byg4lab.com/en/case-studies/user-case-macon-hospital-center/
+- https://byg4lab.com/case-studies/partenariat-unilabs-france/
+- http://byg-info.com/index.php/fr/actualites-2
 - https://ted.europa.eu/en/notice/-/detail/489752-2024
 - https://ted.europa.eu/en/notice/-/detail/450483-2024
 - https://ted.europa.eu/en/notice/-/detail/81198-2025
